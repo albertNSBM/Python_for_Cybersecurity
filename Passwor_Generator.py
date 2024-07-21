@@ -1,4 +1,6 @@
 # Importing Modules 
+import os
+os.system('figlet Pass Generator Tool')
 
 import random
 import string 
