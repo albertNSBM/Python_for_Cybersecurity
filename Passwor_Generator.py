@@ -1,6 +1,7 @@
 # Importing Modules 
 import os
-os.system('figlet Pass Generator Tool')
+os.system('figlet P.Generator Tool')
+print('----------------------------------')
 
 import random
 import string 
